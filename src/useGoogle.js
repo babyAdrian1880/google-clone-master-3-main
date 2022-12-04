@@ -14,4 +14,5 @@ const useGoogle = term => {
     return { data };
 }
 
+
 export default useGoogle 
